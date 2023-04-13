@@ -1,0 +1,28 @@
+.nav-item .active {
+    font-size: small;
+    font-weight: bolder;
+}
+
+.mr-auto span {
+    padding: 5px 13px;
+    background-color: white;
+    border-radius: 20px;
+    margin-right: 150px;
+}
+
+.mr-auto span a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bi-facebook, .bi-twitter {
+    font-size: 21px;
+    margin-right: 10px;
+}
+
+.bi-linkedin {
+    font-size: 21px;
+    margin-right: 20px;
+}
